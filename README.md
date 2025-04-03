@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Sally (๑>◡<๑)
+## Olá!! Eu sou a Becca (Sally) (๑>◡<๑)
 
 - 📖 Estou cursando Ciência da Computação
 - 🌸 Estudando na Universidade Positivo
