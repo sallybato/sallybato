@@ -5,7 +5,7 @@
 - 🍒 amo cerejas!
 - 💬 Contate-me no email: rebeccabeccarifagundes@gmail.com
 - 🐈‍⬛ Pronouns: Ela/Dela
-- 📗 Formada e Especializada em Inteligencia Emocional,
+- 📗 Formada e Especializada em Inteligencia Emocional,<br>
   Coaching e Analista Comportamental seguindo a teoria do modelo DISC :)
 
 <div>
