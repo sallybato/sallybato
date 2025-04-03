@@ -5,7 +5,8 @@
 - 🍒 amo cerejas!
 - 💬 Contate-me no email: rebeccabeccarifagundes@gmail.com
 - 🐈‍⬛ Pronouns: Ela/Dela
-- 📗 Formada e Especializada em Inteligencia Emocional,Coaching e Analista Comportamental seguindo a teoria do modelo DISC :)
+- 📗 Formada e Especializada em Inteligencia Emocional,
+  Coaching e Analista Comportamental seguindo a teoria do modelo DISC :)
 
 <div>
 <a href="https://github.com/sallybato">
