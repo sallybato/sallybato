@@ -23,7 +23,8 @@
   <img align="right" alt="Sally" height= "130" width="140" src="https://github.com/user-attachments/assets/902fe366-cce1-487b-a472-a62b2d6eb248">
   <img align="center" alt="SallyJava" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align= "center" alt= "Sallycanva" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-          
+  <img align= "center" alt= "Pythonsally" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+                 
 </div>
 
   ##
