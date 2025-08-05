@@ -10,7 +10,7 @@
 
 <div>
 <a href="https://github.com/sallybato">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sallybato&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> <br>
+<img width="41%" src="https://github-readme-stats.vercel.app/api?username=sallybato&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> <br>
 <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=omni"/>
 </div>
   
