@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=E833F7&width=435&lines=Welcome+to+my+GitHub+%F0%93%86%A9%E2%99%A1%F0%93%86%AA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F782E1&width=435&lines=Ol%C3%A1+eu+sou+a+Becca%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1" alt="Typing SVG" /></a>
 
 - 📖 Estou cursando Ciência da Computação
 - 🌸 Estudando na Universidade Positivo
