@@ -3,11 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&pause=1000&color=F782E1&width=435&lines=Welcome+to+my+profile+%3A);Sou+a+Rebecca+Beccari%CB%9A%E2%8A%B9%E2%99%A1" alt="Typing SVG" />
   </a>
 </p>  
-- 📖 Estou cursando Ciência da Computação
-- 🌸 Estudando na Universidade Positivo
-- 💬 Contate-me no email: rebeccabeccarifagundes@gmail.com
-- 📗 Formada e Especializada em Inteligencia Emocional,<br>
-  Coaching e Analista Comportamental seguindo a teoria do modelo DISC :)
+
+##
 
 <div>
 <a href="https://github.com/sallybato">
