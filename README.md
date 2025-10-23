@@ -11,3 +11,13 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
   
 #  
 <h3 align="left">Tecnologias ── .✦</h3>
+<div style="display: inline_block" align="center"><br>
+  <img alt="Rebecca-C" height="40" width=50" src="https://skillicons.dev/icons?i=c"/>
+  <img alt="Rebecca-C#" height="40" width=50" src="https://skillicons.dev/icons?i=cs"/>
+  <img alt="Rebecca-HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
+  <img alt="Rebecca-CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css"/>
+  <img alt="Rebecca-SQL" height="40" width="50" src="https://skillicons.dev/icons?i=mysql"/>
+  <img alt="Rebecca-Java" height="40" width="50" src="https://skillicons.dev/icons?i=java"/>
+  <img alt="Rebecca-PY" height="40" width="50" src="https://skillicons.dev/icons?i=py"/>
+</div>
+
