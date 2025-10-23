@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Becca (๑>◡<๑)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=E833F7&width=435&lines=Welcome+to+my+GitHub+%F0%93%86%A9%E2%99%A1%F0%93%86%AA" alt="Typing SVG" /></a>
 
 - 📖 Estou cursando Ciência da Computação
 - 🌸 Estudando na Universidade Positivo
