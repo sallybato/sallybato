@@ -7,4 +7,5 @@
 #
 <p align="center">Estudante de Ciência da Computação na Universidade Positivo.
 Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender, resolver e aplicar esses conhecimentos para criar soluções inovadoras.
+  
 #  
