@@ -33,4 +33,4 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Contato ── .✦</h3>
 <div align="center"> <!-- badges -->
 
-  [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](mailto:https://www.instagram.com/bekit4_/)
+  [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](https://www.instagram.com/bekit4_/)
