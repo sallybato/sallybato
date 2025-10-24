@@ -23,9 +23,6 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 
 #
 
-
-#
-
 <h3 align="left">GitHub Stats ── .✦</h3>
 <div align="center" dir="auto">
   <a href="https://github.com/sallybato">
@@ -33,3 +30,5 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=material-palenight"/>
   </a>
 </div> <br>
+
+#
