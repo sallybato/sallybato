@@ -30,7 +30,7 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="190px" src="">
+<img align="right" alt="" height="190px" src="./src/pc_pastel.gif">
 
 <h3 align="left">Contato ── .✦</h3>
 <div align="left"> <!-- badges -->
