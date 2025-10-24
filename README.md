@@ -26,7 +26,7 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 <h3 align="left">GitHub Stats ── .✦</h3>
 <div align="center" dir="auto">
   <a href="https://github.com/sallybato">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sallybato&show_icons=true&count_private=true&rank_icon=github&theme=material-palenight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=material-palenight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=sallybato&show_icons=true&count_private=true&rank_icon=github&theme=material-palenight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=material-palenight"/>
   </a>
 </div> <br>
