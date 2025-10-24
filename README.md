@@ -22,3 +22,5 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
+
+<h3 align="left">GitHub Stats ── .✦</h3>
