@@ -31,3 +31,5 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 #
 
 <h3 align="left">Contato ── .✦</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23e670a9?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Fbekit4_%2F">
+
