@@ -30,12 +30,11 @@ Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="190px" src="./src/pc_pastel.gif">
-
 <h3 align="left">Contato ── .✦</h3>
 <div align="left"> <!-- badges -->
   
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](https://www.instagram.com/bekit4_/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd&)](https://www.linkedin.com/in/rebecca-beccari-63236032b/)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](mailto:rebeccabeccarifagundes@gmail.com)
+
 </div>
