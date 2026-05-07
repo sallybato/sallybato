@@ -2,37 +2,31 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=29&duration=4999&pause=1000&color=F782E1&center=true&width=435&lines=%E2%8A%B9+%E0%A3%AA+%CB%96Welcome+to+my+profile+%3A)+%E0%A3%AA+%CB%96+%E2%8A%B9;Me+chamo+Rebecca+Beccari+%E2%99%A1" alt="Typing SVG" style="max-width:100%;" />
   </a>
-</p> 
+</p>
+
 <p align="center">Estudante de Ciência da Computação na Universidade Positivo.
-Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender, resolver e aplicar esses conhecimentos para criar soluções inovadoras.  
-  
-#  
+Estou constantemente aprimorando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender, resolver e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+
+#
+
 <h3 align="left">Tecnologias ── .✦</h3>
-<div style="display: inline_block" align="center"><br>
-  <img alt="Rebecca-C" height="40" width=50" src="https://skillicons.dev/icons?i=c"/>
-  <img alt="Rebecca-C#" height="40" width=50" src="https://skillicons.dev/icons?i=cs"/>
-  <img alt="Rebecca-HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
-  <img alt="Rebecca-CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css"/>
-  <img alt="Rebecca-SQL" height="40" width="50" src="https://skillicons.dev/icons?i=mysql"/>
-  <img alt="Rebecca-Java" height="40" width="50" src="https://skillicons.dev/icons?i=java"/>
-  <img alt="Rebecca-PY" height="40" width="50" src="https://skillicons.dev/icons?i=py"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,mysql,java,py" />
+</p>
 
 #
 
 <h3 align="left">GitHub Stats ── .✦</h3>
-<div align="center" dir="auto">
-  <a href="https://github.com/sallybato">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=sallybato&show_icons=true&count_private=true&rank_icon=github&theme=material-palenight"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&langs_count=16&theme=material-palenight"/>
-  </a>
-</div> <br>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sallybato&show_icons=true&theme=material-palenight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallybato&layout=compact&theme=material-palenight&hide_border=true"/>
+</div>
 
 #
 
 <h3 align="left">Contato ── .✦</h3>
-<div align="left"> <!-- badges -->
-  
+<div align="left">
+
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](https://www.instagram.com/bekit4_/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd&)](https://www.linkedin.com/in/rebecca-beccari-63236032b/)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%23cfc5dd&logoSize=auto&labelColor=black&color=%23cfc5dd)](mailto:rebeccabeccarifagundes@gmail.com)
